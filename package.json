@@ -18,7 +18,7 @@
     "@react-navigation/native": "^5.1.6",
     "@react-navigation/stack": "^5.2.13",
     "firebase": "^7.14.3",
-    "moment": "^2.25.0",
+    "moment": "^2.29.2",
     "react": "16.11.0",
     "react-native": "0.62.2",
     "react-native-gesture-handler": "^1.6.1",
